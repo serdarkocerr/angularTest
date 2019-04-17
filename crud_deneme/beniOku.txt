@@ -1,0 +1,4 @@
+node_modules ve e2e folderlari eklenmemistir. Bu sebepten bu test projesi
+olusturulmus bir angular projesinde baslangic yapisi icin fikir verir.
+
+ANGULAR-2 projesidir.

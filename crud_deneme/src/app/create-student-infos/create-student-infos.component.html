@@ -1,0 +1,29 @@
+<p>
+  create-student-infos works!
+</p>
+
+<div class="container">
+    <div class="text-right">
+        <button type="button" class="btn btn-secondary" 
+            (click)="viewReadPage()" >Read</button>
+      </div>
+
+      <div>
+        <form #studentInfoForm="ngForm" (ngSubmit)="createStudent(studentInfoForm)" novalidate >
+            <div class="row">
+                <input type="number" ngModel  name="studentID" class="form-control" placeholder="ID" 
+                    >
+            </div>
+            <div class="row">
+                <input type="text"  ngModel name="studentFirstName" class="form-control" placeholder="First name" 
+                    >
+            </div>
+            <div class="row">
+                <input type="text" ngModel name="studentLastName" class="form-control" placeholder="Last name" 
+                    >
+            </div>
+                 <button type="submit" class="btn btn-primary">Submit</button>
+          </form>  
+      </div>
+
+</div>
