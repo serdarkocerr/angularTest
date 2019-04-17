@@ -2,3 +2,10 @@ node_modules ve e2e folderlari eklenmemistir. Bu sebepten bu test projesi
 olusturulmus bir angular projesinde baslangic yapisi icin fikir verir.
 
 ANGULAR-2 projesidir.
+Edit yapilan dosyalar
+src/app klasoru hepsi
+src/assets json http get icin json dosyasini serve etmesi icin koyuldu
+styles.css bootsrapt eklemek icin
+angular.json package.json tsconfig.json ve tslint.json dosyalarina bakilsa iyi o
+lur.
+tarih:17-04-2019
