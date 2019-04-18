@@ -9,3 +9,6 @@ styles.css bootsrapt eklemek icin
 angular.json package.json tsconfig.json ve tslint.json dosyalarina bakilsa iyi o
 lur.
 tarih:17-04-2019
+
+Angular-2 Web sites:
+- https://www.tutorialspoint.com/angular2/angular2_quick_guide.htm
